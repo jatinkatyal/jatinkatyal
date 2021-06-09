@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jatinkatyal
-- 👀 I’m interested in cognitive branch of computer science
+- 👀 I’m interested in cognitive branches of computer science
 - 🌱 I’m currently learning Deep Learning and ML
 - 💞️ I’m looking to collaborate on anything I can help with, I love contributing whenver I can.
 - 📫 How to reach me https://www.linkedin.com/in/jatin-katyal/
